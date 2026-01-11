@@ -139,7 +139,7 @@ Novel Text → Chunking (512 tokens) → DistilBERT Encoder → GRUCell → Narr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bdh-narrative-reasoning.git
+   git clone https://github.com/smitpatil06/bdh-narrative-reasoning.git
    cd bdh-narrative-reasoning
    ```
 
