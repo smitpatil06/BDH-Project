@@ -318,12 +318,12 @@ scaler.scale(loss).backward()
 
 ## 👥 Team
 
-**Team Name**: [ByteMe]
+**Team Name**: ByteMe
 
-- **[ANIMESH TAJNE]**
-- **[AYUSH BISEN]** 
-- **[RUGVED KADU]**
-- **[SMIT PATIL]**
+- **ANIMESH TAJNE**
+- **AYUSH BISEN** 
+- **RUGVED KADU**
+- **SMIT PATIL**
 
 ---
 
@@ -357,9 +357,9 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 For questions or collaboration:
 
-- **Email**: [animeshtajne776@gmail.com]
-- **GitHub**: [@animesh-1121]((https://github.com/animesh-1121))
-- **LinkedIn**: [Animesh Tajne]((https://www.linkedin.com/in/animesh-tajne/))
+- **Email**: animeshtajne776@gmail.com
+- **GitHub**: [animesh-1121](https://github.com/animesh-1121)
+- **LinkedIn**: [Animesh Tajne](https://www.linkedin.com/in/animesh-tajne/)
 
 ---
 
