@@ -318,11 +318,12 @@ scaler.scale(loss).backward()
 
 ## 👥 Team
 
-**Team Name**: [Your Team Name]
+**Team Name**: [ByteMe]
 
-- **[Your Name]** - Architecture Design, Model Implementation
-- **[Teammate 2]** - Data Processing, Evaluation Pipeline
-- **[Teammate 3]** - Training Infrastructure, Documentation
+- **[ANIMESH TAJNE]**
+- **[AYUSH BISEN]** 
+- **[RUGVED KADU]**
+- **[SMIT PATIL]**
 
 ---
 
@@ -356,9 +357,9 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 For questions or collaboration:
 
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: [animeshtajne776@gmail.com]
+- **GitHub**: [@animesh-1121]((https://github.com/animesh-1121))
+- **LinkedIn**: [Animesh Tajne]((https://www.linkedin.com/in/animesh-tajne/))
 
 ---
 
@@ -366,6 +367,6 @@ For questions or collaboration:
 
 **Built with 🐉 for narrative reasoning at scale**
 
-[Report Issue](https://github.com/yourusername/bdh-narrative-reasoning/issues) • [Request Feature](https://github.com/yourusername/bdh-narrative-reasoning/pulls)
+[Report Issue](https://github.com/smitpatil06/bdh-narrative-reasoning/issues) • [Request Feature](https://github.com/smitpatil06/bdh-narrative-reasoning/pulls)
 
 </div>
