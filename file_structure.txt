@@ -17,17 +17,19 @@
 │   │   ├── bdh.cpython-310.pyc
 │   │   ├── __init__.cpython-310.pyc
 │   │   ├── __init__.cpython-313.pyc
+│   │   ├── __init__.cpython-314.pyc
 │   │   ├── model.cpython-310.pyc
 │   │   ├── model.cpython-313.pyc
+│   │   ├── model.cpython-314.pyc
 │   │   ├── reasoner.cpython-310.pyc
-│   │   └── reasoner.cpython-313.pyc
+│   │   ├── reasoner.cpython-313.pyc
+│   │   └── reasoner.cpython-314.pyc
 │   ├── README.md
 │   ├── reasoner.py
 │   ├── requirements.txt
 │   ├── results.csv
 │   ├── solution.py
 │   └── train.py
-├── bdh_files.zip
 ├── config.yaml
 ├── data
 │   ├── castaways.txt
@@ -47,14 +49,11 @@
 ├── file_structure.txt
 ├── gold.csv
 ├── infer.py
-├── Model
-│   └── reasoner.pt
 ├── README.md
-├── reasoner.pt
 ├── requirements.txt
 ├── res.py
 ├── results.csv
-├── run.py
-└── train_bdh.py
+├── train_bdh.py
+└── train_log.txt
 
-10 directories, 48 files
+9 directories, 48 files

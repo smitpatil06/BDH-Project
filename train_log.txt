@@ -1,1 +1,12 @@
 Using device: cuda
+Epoch 1 Summary | Loss: 0.7458 | LR: 0.000100
+Epoch 2 Summary | Loss: 0.6845 | LR: 0.000100
+Epoch 3 Summary | Loss: 0.6793 | LR: 0.000100
+Epoch 4 Summary | Loss: 0.6520 | LR: 0.000100
+Epoch 5 Summary | Loss: 0.6669 | LR: 0.000100
+Epoch 6 Summary | Loss: 0.6548 | LR: 0.000050
+Epoch 7 Summary | Loss: 0.6287 | LR: 0.000050
+Epoch 8 Summary | Loss: 0.6234 | LR: 0.000050
+Epoch 9 Summary | Loss: 0.6218 | LR: 0.000050
+Epoch 10 Summary | Loss: 0.6053 | LR: 0.000050
+Training Complete. Weights saved to reasoner.pt

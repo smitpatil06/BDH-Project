@@ -1,61 +1,61 @@
-id,label
-95,contradict
-136,contradict
-59,consistent
-60,consistent
-124,contradict
-111,contradict
-135,contradict
-27,consistent
-110,contradict
-42,contradict
-56,consistent
-80,consistent
-28,contradict
-101,contradict
-91,contradict
-24,contradict
-119,contradict
-93,contradict
-72,consistent
-16,consistent
-30,consistent
-97,contradict
-22,consistent
-53,consistent
-58,consistent
-81,consistent
-47,consistent
-7,consistent
-121,contradict
-129,contradict
-51,consistent
-127,contradict
-133,contradict
-52,consistent
-114,contradict
-2,consistent
-33,contradict
-15,consistent
-82,consistent
-37,consistent
-3,consistent
-103,contradict
-94,contradict
-85,consistent
-21,contradict
-49,consistent
-140,contradict
-64,contradict
-131,contradict
-61,consistent
-86,contradict
-38,consistent
-132,contradict
-77,consistent
-70,consistent
-115,contradict
-78,consistent
-87,contradict
-75,consistent
-44,consistent
+id,label,rationale
+95,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+136,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, pe..."""
+59,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+60,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+124,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, pe..."""
+111,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+135,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+27,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+110,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+42,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+56,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+80,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+28,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+101,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, pe..."""
+91,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, pe..."""
+24,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+119,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+93,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+72,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+16,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+30,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+97,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+22,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+53,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+58,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+81,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+47,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+7,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+121,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+129,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+51,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+127,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+133,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+52,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+114,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, pe..."""
+2,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+33,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+15,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+82,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+37,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+3,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+103,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+94,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+85,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+21,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+49,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+140,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+64,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+131,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""your size should pass through each frame.” “Why the devil have they any stairs with such windows?” “Luxury has everything.” “But shutters?” “Yes, but they are never used. That Count of Monte Cristo is..."""
+61,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+86,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+38,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+132,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to ..."""
+77,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+70,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
+115,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+78,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+87,0,"Contradict: Later narrative events violate the causal assumptions implied by the backstory. Conflict detected near: ""﻿The Project Gutenberg eBook of The Count of Monte Cristo This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions..."""
+75,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""shoulders, and long hair tied with leathern thongs. His height exceeded six feet, and his bronzed face was red between his eyes and mouth, black below his eyelids, and white on his forehead. After the..."""
+44,1,"Consistent: The backstory provides sufficient causal grounding for later decisions. Causal link confirmed near: ""there!"" cried Glenarvan. Then suddenly a thought flashed through his mind. ""If Robert is still living!"" exclaimed he, with a cry of terror, ""this bird! Fire, my friends, fire!"" But he was too late. Th..."""
